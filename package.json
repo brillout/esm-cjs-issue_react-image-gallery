@@ -32,8 +32,7 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.3.3",
     "vike": "^0.4.162",
-    "vite": "^5.0.10",
-    "vite-plugin-cjs-interop": "^2.0.6"
+    "vite": "^5.0.10"
   },
   "type": "module",
   "devDependencies": {
