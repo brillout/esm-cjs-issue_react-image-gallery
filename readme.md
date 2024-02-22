@@ -1,6 +1,8 @@
 Fix: https://github.com/brillout/esm-cjs-issue_react-image-gallery/commit/2e370cbf58a2b0a02d0822a2b5cfd37d09aa9d62
 
-`pnpm run dev`, go to http://localhost:3000/, then observe:
+`pnpm run dev`, go to http://localhost:3000/, then observe the following.
+
+> Same error with Bun `1.0.28` (`$ bun dev).
 
 ```
 Server running at http://localhost:3000
