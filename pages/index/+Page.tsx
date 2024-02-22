@@ -1,4 +1,8 @@
 import ImageGallery from "react-image-gallery";
+/* Manual fix:
+import ImageGallery_  from "react-image-gallery";
+const ImageGallery = (ImageGallery_ as any).default as typeof ImageGallery_
+*/
 // import stylesheet if you're not already using CSS @import
 import "react-image-gallery/styles/css/image-gallery.css";
 
